@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samiksha Gaur</h1>
+<h3 align="center">I'm a tech enthusiast with a passion for exploring the limitless possibilities of technology. When I'm not immersed in the digital realm, you'll often find me expressing my creativity through pencil sketching, especially with the dramatic strokes of charcoal. Beyond that, I have a soft spot for nostalgia, spending my leisure hours enjoying classic cartoons that never fail to bring a smile to my face.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samgaur&label=Profile%20views&color=0e75b6&style=flat" alt="samgaur" /> </p>
 
 <h3 align="left">Connect with me:</h3>
